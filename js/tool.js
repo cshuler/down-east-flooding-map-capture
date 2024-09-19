@@ -94,7 +94,7 @@ var county_roads = L.geoJSON(carteret_co_roads, {
 carteret_co_roads = undefined; // unset
 
 var defaultView = {
-    center: [34.80675621590259, -76.5376809057703],
+    center: [-14.80675621590259, -156.5376809057703],
     zoom: 11
 };
 
